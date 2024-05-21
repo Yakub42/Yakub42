@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Yakub42
-- 👀 I’m interested in Data Science and machine learning with Python
-- 🌱 I’m currently learning SQL and Python libraries for Machine Learning
+- 👀 I’m interested in Data Science and Machine Learning.
+- 🌱 I’m currently learning SQL and Python libraries for Data Science.
 - 💞️ I’m looking to collaborate on Data Science projects
 - 📫 Reach me on yakubadedeji@gmail.com
 - Let's connect on Linkedin www.linkedin.com/in/adedeji-yakub/
